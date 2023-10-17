@@ -4,6 +4,6 @@ Shopronix is an advanced and feature-rich electronics store built on the robust 
 
 ## Design Prototypes
 
-Explore our design prototypes on Figma: [Figma Design Files]([https://www.figma.com/link-to-your-designs](https://www.figma.com/file/KuPb3C9uWx4uTpibWfpQeP/Full-E-Commerce-Website-UI-UX-Design-(Community)?type=design&node-id=135-1508&mode=design&t=7B6OCeE8MRpKcUNx-0)https://www.figma.com/file/KuPb3C9uWx4uTpibWfpQeP/Full-E-Commerce-Website-UI-UX-Design-(Community)?type=design&node-id=135-1508&mode=design&t=7B6OCeE8MRpKcUNx-0)
+Explore our design prototypes on Figma: [Figma Design File](https://www.figma.com/link-to-your-designs](https://www.figma.com/file/KuPb3C9uWx4uTpibWfpQeP/Full-E-Commerce-Website-UI-UX-Design-(Community)?type=design&node-id=135-1508&mode=design&t=7B6OCeE8MRpKcUNx-0)https://www.figma.com/file/KuPb3C9uWx4uTpibWfpQeP/Full-E-Commerce-Website-UI-UX-Design-(Community)?type=design&node-id=135-1508&mode=design&t=7B6OCeE8MRpKcUNx-0)
 
 
